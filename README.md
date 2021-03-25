@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Roopansh Sharma with github name @Champion8952 
+- 👋 Hi, I’m Roopansh Sharma with called name @Champion8952 
 - 👀 I’m interested in Volleyball & Data Science , Machine Learning .
 - 🌱 I’m currently learning in 8th Semester of B.Tech from GECB 
 - 💞️ I’m looking to collaborate on any Data Science, Python Framework , Machine Learning , IOT or any kind of technology in service.
